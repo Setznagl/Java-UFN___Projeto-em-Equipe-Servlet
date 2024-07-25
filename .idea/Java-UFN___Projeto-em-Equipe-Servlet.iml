@@ -1,5 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/docs/appdev/sample/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/docs/appdev/sample/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/docs/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/docs" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/ROOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/examples/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/examples" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/docs/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/docs" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/examples/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/examples" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/target/Projeto_Servlet_JSP-1.0-SNAPSHOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/target/Projeto_Servlet_JSP-1.0-SNAPSHOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/ROOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/docs/appdev/sample/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP_Versão_Gabriel/apache-tomcat-10.1.26/webapps/docs/appdev/sample/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projeto_Servlet_JSP/apache-tomcat-10.1.26/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
